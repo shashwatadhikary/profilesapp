@@ -44,6 +44,11 @@ export default function App() {
       margin="0 auto"
     >
       <Heading level={1}>My Profile</Heading>
+      
+      {/* Adding your name */}
+      <Heading level={3} color="gray">
+        Shashwat Adhikary
+      </Heading>
 
       <Divider />
 
